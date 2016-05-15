@@ -1,1 +1,3 @@
-echo date >> /home/jasper/Desktop/datum.txt
+#!/bin/bash
+
+date >> /home/jasper/Desktop/datum.txt
